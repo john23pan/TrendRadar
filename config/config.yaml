@@ -91,3 +91,5 @@ platforms:
     name: "微博"
   - id: "zhihu"
     name: "知乎"
+  - id: "hupu"
+    name: "虎扑"
